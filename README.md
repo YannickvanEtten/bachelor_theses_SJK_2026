@@ -40,6 +40,7 @@ Yannick van Etten will hold question hours once a week. On Wednesdays from 10.00
 | 20-05-2025 | 10.00-17.00  | HG-4A44 |
 | 27-05-2025 | 10.00-15.30  | NU-4B25 |
 |  | 15.30-17.00 | HG-4A44 |
+
 If the slots are full or Wednesday does not work for you, you can make an appointment for a different day using [Appointment Link](https://calendar.notion.so/meet/yannick_v_etten/pm23g4pqb). These meetings will be either on a later announced location or online, depending the time.
 
 
