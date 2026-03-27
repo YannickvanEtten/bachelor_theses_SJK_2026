@@ -26,19 +26,19 @@ These dates could be subject to small changes. If so this will be communicated.
 Yannick van Etten will hold question hours once a week. On Wednesdays from 10.00 till 17.00 slots of 30 minutes each are available to book using this [Appointment Link](https://calendar.notion.so/meet/yannick_v_etten/sdgw4phu). Please write me an email if you plan to meet online. It could be beneficial to send a question in advance with a specific topic you want to discuss. The meeting on campus will take place in:
 | Date       | Time        | Room    |
 |------------|-------------|---------|
-| 01-04-2025 | 9.00-17.00  | NU-4B25 |
-| 08-04-2025 | 9.00-15.30  | NU-5A71 |
+| 01-04-2025 | 10.00-17.00  | NU-4B25 |
+| 08-04-2025 | 10.00-15.30  | NU-5A71 |
 |  | 15.15-17.00 | NU-5B51 |
-| 15-04-2025 | 9.00-13.00  | NU-4B25 |
+| 15-04-2025 | 10.00-13.00  | NU-4B25 |
 |  | 12.45-17.00 | NU-2B01 |
-| 22-04-2025 | 9.00-17.00  | NU-4B25 |
-| 29-04-2025 | 9.00-17.00  | NU-2B25 |
-| 06-05-2025 | 9.00-12.00  | HG-4A44 |
+| 22-04-2025 | 10.00-17.00  | NU-4B25 |
+| 29-04-2025 | 10.00-17.00  | NU-2B25 |
+| 06-05-2025 | 10.00-12.00  | HG-4A44 |
 |  | 12.00-17.00 | NU-5B43 |
-| 13-05-2025 | 9.00-15.30  | NU-4B01 |
+| 13-05-2025 | 10.00-15.30  | NU-4B01 |
 |  | 15.15-17.00 | NU-4B25 |
-| 20-05-2025 | 9.00-17.00  | HG-4A44 |
-| 27-05-2025 | 9.00-15.30  | NU-4B25 |
+| 20-05-2025 | 10.00-17.00  | HG-4A44 |
+| 27-05-2025 | 10.00-15.30  | NU-4B25 |
 |  | 15.30-17.00 | HG-4A44 |
 If the slots are full or Wednesday does not work for you, you can make an appointment for a different day using [Appointment Link](https://calendar.notion.so/meet/yannick_v_etten/pm23g4pqb). These meetings will be either on a later announced location or online, depending the time.
 
