@@ -1,5 +1,5 @@
 # Bachelor Theses
-Welcome! This page will contain information and code for the bachelor theses under supervision of Prof. dr. Siem Jan Koopman. The topics of these theses are GARCH and GAS models. The possible literature list from last year is seen in the table below, this could be some inspiration. Most pdf files are available [here](https://github.com/YannickvanEtten/bachelor_theses_SJK_2025/tree/4cd483e420d1fd953eb32af80b0a62109b02df94/Papers), please check if these are the most recent ones. Furthermore, two old theses are available [here](https://github.com/YannickvanEtten/bachelor_theses_SJK_2025/tree/4cd483e420d1fd953eb32af80b0a62109b02df94/Old%20Theses). This page is still under construction so could be updated with more information.
+Welcome! This page will contain information and code for the bachelor theses under supervision of Prof. dr. Siem Jan Koopman. The topics of these theses are GARCH and GAS models. The possible literature list from last year is seen in the table below, this could be some inspiration. Most pdf files are available [here](https://github.com/YannickvanEtten/bachelor_theses_SJK_2026/tree/086819c2e92ce5db701e1dc6a9c9bde0f4f63a0f/Papers). Furthermore, two old theses will be later available available [here](https://github.com/YannickvanEtten/bachelor_theses_SJK_2026/tree/086819c2e92ce5db701e1dc6a9c9bde0f4f63a0f/Old%20Theses). This page is still under construction so could be updated with more information.
 
 | Topic                               | Article                                                                                      |
 |-------------------------------------|----------------------------------------------------------------------------------------------|
@@ -12,28 +12,37 @@ Welcome! This page will contain information and code for the bachelor theses und
 | GAS models                           | Creal, D.D., Koopman, S.J. & Lucas, A. (2013). Generalized Autoregressive Score Models with Applications, Journal of Applied Econometrics 28(5), 777-795. |
 
 ## General Information and Starting Code
-In [this folder](https://github.com/YannickvanEtten/bachelor_theses_SJK_2025/tree/4cd483e420d1fd953eb32af80b0a62109b02df94/General%20GARCH%20Information) general information is found about GARCH and Multivariate GARCH models, provided by dr. Lennart Hoogerheide. A Python file containing starting code for GARCH models is available in [this folder](https://github.com/YannickvanEtten/bachelor_theses_SJK_2025/tree/4cd483e420d1fd953eb32af80b0a62109b02df94/Python%20code). Additional, there is a Python file concerning GARCH models with a Student-t distribution in [this folder](https://github.com/YannickvanEtten/bachelor_theses_SJK_2025/tree/4cd483e420d1fd953eb32af80b0a62109b02df94/Python%20code/GARCH%20Student-t).
+In [this folder](https://github.com/YannickvanEtten/bachelor_theses_SJK_2026/tree/086819c2e92ce5db701e1dc6a9c9bde0f4f63a0f/General%20GARCH%20Information) general information is found about GARCH and Multivariate GARCH models, provided by dr. Lennart Hoogerheide. A Python file containing starting code for GARCH models is available in [this folder](https://github.com/YannickvanEtten/bachelor_theses_SJK_2026/tree/086819c2e92ce5db701e1dc6a9c9bde0f4f63a0f/Python%20code). Additional, there is a Python file concerning GARCH models with a Student-t distribution in [this folder](https://github.com/YannickvanEtten/bachelor_theses_SJK_2026/tree/086819c2e92ce5db701e1dc6a9c9bde0f4f63a0f/Python%20code/GARCH%20Student-t).
 
 ## Important dates
 In the next few months, several dates are of important:
-- **12 March:** Kick-off meeting 
 - **1 April:** Supervision starts
-- **24 June:** Deadline draft
-- **30 June:** Deadline thesis
+- **-- June:** Deadline draft
+- **-- June:** Deadline thesis
 
 These dates could be subject to small changes. If so this will be communicated.
 
 ## Question hours
-Yannick van Etten will hold question hours once a week. On Wednesdays from 10.00 till 15.00 slots of 30 minutes each are available to book using this [Appointment Link](https://calendar.notion.so/meet/yannick_v_etten/m3ad3kd3). Please write me an email if you plan to meet online. It could be beneficial to send a question in advance with a specific topic you want to discuss. The meeting on campus will take place in:
-| Date       | Room     |
-|------------|----------|
-| 18-06-2025 | NU-5A71  |
-| 25-06-2025 | NU-6A91  |
-
-If the slots are full or Wednesday does not work for you, you can make an appointment for a different day using [Appointment Link](https://calendar.notion.so/meet/yannick_v_etten/nn1nb3m1h). These meetings will be either on a later announced location or online, depending the time.
+Yannick van Etten will hold question hours once a week. On Wednesdays from 10.00 till 17.00 slots of 30 minutes each are available to book using this [Appointment Link](https://calendar.notion.so/meet/yannick_v_etten/sdgw4phu). Please write me an email if you plan to meet online. It could be beneficial to send a question in advance with a specific topic you want to discuss. The meeting on campus will take place in:
+| Date       | Time        | Room    |
+|------------|-------------|---------|
+| 01-04-2025 | 9.00-17.00  | NU-4B25 |
+| 08-04-2025 | 9.00-15.30  | NU-5A71 |
+|  | 15.15-17.00 | NU-5B51 |
+| 15-04-2025 | 9.00-13.00  | NU-4B25 |
+|  | 12.45-17.00 | NU-2B01 |
+| 22-04-2025 | 9.00-17.00  | NU-4B25 |
+| 29-04-2025 | 9.00-17.00  | NU-2B25 |
+| 06-05-2025 | 9.00-12.00  | HG-4A44 |
+|  | 12.00-17.00 | NU-5B43 |
+| 13-05-2025 | 9.00-15.30  | NU-4B01 |
+|  | 15.15-17.00 | NU-4B25 |
+| 20-05-2025 | 9.00-17.00  | HG-4A44 |
+| 27-05-2025 | 9.00-15.30  | NU-4B25 |
+|  | 15.30-17.00 | HG-4A44 |
+If the slots are full or Wednesday does not work for you, you can make an appointment for a different day using [Appointment Link](https://calendar.notion.so/meet/yannick_v_etten/pm23g4pqb). These meetings will be either on a later announced location or online, depending the time.
 
 
 ## Contact
 - Prof. dr. Siem Jan Koopman: [s.j.koopman@vu.nl](mailto:s.j.koopman@vu.nl)
 - Yannick van Etten: [y.j.van.etten@student.vu.nl](mailto:y.j.van.etten@student.vu.nl)
-
