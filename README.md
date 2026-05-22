@@ -23,10 +23,9 @@ In the next few months, several dates are of important:
 These dates could be subject to small changes. If so this will be communicated.
 
 ## Question hours
-Yannick van Etten will hold question hours once a week. On Wednesdays from 10.00 till 17.00 slots of 30 minutes each are available to book using this [Appointment Link](https://calendar.notion.so/meet/yannick_v_etten/sdgw4phu). Please write me an email if you plan to meet online. It could be beneficial to send a question in advance with a specific topic you want to discuss. The meeting on campus will take place in:
+Yannick van Etten will hold question hours once a week. On Wednesdays from 10.00 till 17.00 slots of 30 minutes each are available to book using this [Appointment Link](https://calendar.notion.so/meet/yannick_v_etten/eea84qcu). Please write me an email if you plan to meet online. It could be beneficial to send a question in advance with a specific topic you want to discuss. The meeting on campus will take place in:
 | Date       | Time        | Room    |
 |------------|-------------|---------|
-| 20-05-2025 | 10.00-17.00  | HG-4A44 |
 | 29-05-2025 (Friday) | 10.00-17.00  | NU-5B23 |
 | 03-06-2025 | 10.00-17.00  | NU-5B23 |
 | 10-06-2025 | 10.00-17.00  | NU-5B23 |
