@@ -16,9 +16,8 @@ In [this folder](https://github.com/YannickvanEtten/bachelor_theses_SJK_2026/tre
 
 ## Important dates
 In the next few months, several dates are of important:
-- **1 April:** Supervision starts
-- **-- June:** Deadline draft
-- **-- June:** Deadline thesis
+- **22 June:** Deadline draft
+- **01 Juli:** Deadline thesis
 
 These dates could be subject to small changes. If so this will be communicated.
 
@@ -26,8 +25,6 @@ These dates could be subject to small changes. If so this will be communicated.
 Yannick van Etten will hold question hours once a week. On Wednesdays from 10.00 till 17.00 slots of 30 minutes each are available to book using this [Appointment Link](https://calendar.notion.so/meet/yannick_v_etten/eea84qcu). Please write me an email if you plan to meet online. It could be beneficial to send a question in advance with a specific topic you want to discuss. The meeting on campus will take place in:
 | Date       | Time        | Room    |
 |------------|-------------|---------|
-| 29-05-2025 (Friday) | 10.00-17.00  | NU-5B23 |
-| 03-06-2025 | 10.00-17.00  | NU-5B23 |
 | 10-06-2025 | 10.00-17.00  | NU-5B23 |
 | 17-06-2025 | 10.00-17.00  | NU-5B23 |
 | 24-06-2025 | 10.00-17.00  | NU-6A91 |
